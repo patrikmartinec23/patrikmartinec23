@@ -1,6 +1,6 @@
 # Hi there! I'm Patrik! 👋
 
-🚀 **Aspiring Full Stack Developer | Front-end Enthusiast**  
+🚀 **Full Stack Developer | UI/UX Designer**  
 🏫 **Computer Science and Informatics Student**  
 👨‍🏫 **Mentor at [CodingGiants](https://www.codinggiants.com/) & [Prva gimnazija Maribor](https://www.prva-gimnazija.si/)**
 
