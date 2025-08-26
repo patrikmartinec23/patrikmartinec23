@@ -52,6 +52,6 @@
 
 ## 🔥 Featured Projects:
 
-🚀 [**Github Finder App**](https://github.com/yourusername/project-name) - App to search Github users and display their info.
+🚀 [**Job Finder**]([https://github.com/yourusername/project-name](https://github.com/patrikmartinec23/Job-Finder/tree/master/ProjectsApps/zaposlitev-si)) - responsive job board application
 
 💻 [**Workopia**](https://github.com/patrikmartinec23/workopia-php) - Simple job listing app built with vanilla PHP
